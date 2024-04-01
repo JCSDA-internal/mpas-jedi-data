@@ -9,4 +9,4 @@
 
 cmake_minimum_required( VERSION 3.12 FATAL_ERROR )
 
-project( mpas_jedi_data VERSION 3.0.0 DESCRIPTION "MPAS-JEDI Tier 1 Test Files" )
+project( mpas_jedi_data VERSION 4.0.0 DESCRIPTION "MPAS-JEDI Tier 1 Test Files" )
